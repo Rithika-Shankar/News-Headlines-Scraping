@@ -27,6 +27,9 @@ The scraped headlines are saved in a file called news_headlines.csv. The file co
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Acknowledgments
 - BeautifulSoup: For web scraping functionality.
 - requests: For making HTTP requests.
